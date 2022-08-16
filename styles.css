@@ -510,6 +510,10 @@
   padding: 30px 0;
 }
 
+#locationMap {
+    margin: 40px 0;
+}
+
 /* Forms Section styling*/
 .forms {
   display: grid;
