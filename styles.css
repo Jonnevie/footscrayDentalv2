@@ -231,6 +231,20 @@
       }
 }
 
+/* Media queries for extra large screens */
+@media only screen and (min-width: 1000px){
+        #mainPic {
+            background-image: url('./assets/cropped.jpg');
+            background-position: 50% 20%;
+            min-height: 800px;
+          }
+          .mainText {
+            top: 230px;
+          }
+         
+   
+}
+
 /* Header Styling */
 
 .headers {
